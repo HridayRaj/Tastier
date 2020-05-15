@@ -1,2 +1,0 @@
-# Tastier
-Created with CodeSandbox
